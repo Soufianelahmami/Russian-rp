@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"Roleplaying (RP) is a popular form of interactive storytelling that allows individuals to assume fictional characters and engage in collaborative storytelling. One of the vibrant and diverse RP communities can be found in Russia, where a unique blend of cultural influences","photo":"https://iili.io/HUCHVzx.jpg"},
+  {"title":"helper mod 2","desc":"historical richness, and creative imagination converge. In this article, we will explore the captivating world of Russian RP, delving into its origins, themes, popular platforms, and the distinct characteristics that set it apart.","photo":"https://iili.io/HUCHWWQ.jpg"},
+  {"title":"tips pack 3","desc":"Russian RP has its roots in a long history of storytelling traditions, including folklore, literature, and theater. Russian literature, with its iconic works by authors such as Fyodor Dostoevsky, Leo Tolstoy, and Anton Chekhov, has inspired countless RP narratives. ","photo":"https://iili.io/HUCH15u.jpg"},
+  {"title":"advice mod 4","desc":"The epic nature of Russian tales and the deeply complex characters found in Russian literature have influenced the way RP is approached in this community.","photo":"https://iili.io/HUCHGbj.jpg"},
+  {"title":"advance pack 5","desc":"Furthermore, Russian history, mythology, and cultural heritage play a significant role in shaping the themes and settings of Russian RP. Historical periods like Imperial Russia, ","photo":"https://iili.io/HUCHXsV.jpg"},
+  {"title":"helper mod 6","desc":" the Soviet Union, and the medieval era are frequently explored, allowing participants to immerse themselves in richly detailed and authentic worlds.","photo":"https://iili.io/HUCHjqB.jpg"},
+  {"title":"how to use this app 8","desc":"Russian RP encompasses a broad range of themes and settings, catering to diverse interests and preferences. Some popular themes include","photo":"https://iili.io/HUCHedF.jpg"},
+  {"title":"tips pack 8","desc":"Historical Roleplay: The allure of exploring different periods of Russian history has attracted many RP enthusiasts. ","photo":"https://iili.io/HUCHw0P.jpg"}
    ]
  
 }
